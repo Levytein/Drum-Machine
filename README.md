@@ -12,10 +12,21 @@ Either click the buttons on the site or use your keyboard to play sound effects 
 <b>https://drum-machine-puce-psi.vercel.app/</b>
 <h2>Languages and Utilities Used</h2>
 
-- <b>JavaScript</b> 
-- <b>CSS</b>
-- <b>React</b>
-- <b>Tailwind</b>
+### Languages
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+### Utilities
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+- **PostCSS**
+- **Autoprefixer**
+
+### Additional Tools
+- **Node.js**
+- **npm**
 
 <h2>Environments Used </h2>
 
