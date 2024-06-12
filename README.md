@@ -10,6 +10,24 @@ Either click the buttons on the site or use your keyboard to play sound effects 
 <br />
 <h2>Check it out here</h2>
 <b>https://drum-machine-puce-psi.vercel.app/</b>
+
+## Installation
+### Clone the repository:
+
+```
+git clone https://github.com/Levytein/Drum-Machine.git
+cd Drum-Machine
+```
+
+### Install dependencies (Node.js and npm should be installed):
+```
+npm install
+```
+### Start the development server:
+```
+npm run dev
+```
+
 <h2>Languages and Utilities Used</h2>
 
 ### Languages
